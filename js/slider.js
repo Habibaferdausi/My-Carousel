@@ -20,4 +20,4 @@ setInterval(() => {
   console.log(imgIndex, imgUrl);
   imgEl.setAttribute("src", imgUrl);
   imgIndex++;
-}, 1000);
+}, 500);
